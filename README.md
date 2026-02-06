@@ -179,8 +179,7 @@
 </div>
 
 <hr>
-<p><strong>Assignment:</strong> 4</p>
-<p><strong>Technology:</strong> Terraform | AWS | Docker | Strapi</p>
+
 
 </body>
 </html>
