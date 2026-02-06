@@ -2,11 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Assignment-4 | Steps to Deploy Strapi using Terraform</title>
   
-    
-    
- 
 </head>
 
 <body>
