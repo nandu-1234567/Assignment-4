@@ -3,34 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <title>Assignment-4 | Steps to Deploy Strapi using Terraform</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f9fafb;
-      color: #111827;
-      margin: 40px;
-      line-height: 1.8;
-    }
-    h1, h2 {
-      color: #020617;
-    }
-    .step {
-      background: #ffffff;
-      border: 1px solid #e5e7eb;
-      border-radius: 10px;
-      padding: 20px;
-      margin-bottom: 25px;
-    }
-    .note {
-      background: #eff6ff;
-      border-left: 5px solid #2563eb;
-      padding: 12px;
-      margin-top: 10px;
-    }
-    ul {
-      margin-left: 20px;
-    }
-  </style>
+  
+    
+    
+ 
 </head>
 
 <body>
